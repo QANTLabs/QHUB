@@ -4,12 +4,11 @@ This project sets up a pre-configured JupyterHub server for testing and running 
 
 ## Demo Video
 
-Watch the demo video below to see how the quantum classification task works!
+Watch the demo video below to see how the quantum classification task works in QHUB!
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/QANTLabs/QHUB/raw/main/demo/test-qmt-demo.mov" type="video/mov">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <img src="https://github.com/QANTLabs/QHUB/blob/main/demo/test-qmt-demo.gif" alt="QMT Test DEMO" width="1200">
+</p>
 
 ## Features
 - **Pre-configured JupyterHub**: A ready-to-use Jupyter server with authentication and user management.
