@@ -2,6 +2,15 @@
 
 This project sets up a pre-configured JupyterHub server for testing and running quantum software algorithms. The Jupyter server provides a collaborative environment where users can develop and execute quantum circuits on simulators from IBM, Google, Amazon, and other quantum computing platforms.
 
+## Demo Video
+
+Watch the demo video below to see how the quantum classification task works!
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/QANTLabs/QHUB/raw/main/demo/test-qmt-demo.mov" type="video/mov">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 - **Pre-configured JupyterHub**: A ready-to-use Jupyter server with authentication and user management.
 - **Multi-user support**: New users are automatically created and assigned personal notebook spaces.
