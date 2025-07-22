@@ -13,7 +13,7 @@ Watch the demo video below to see how the quantum classification task works in Q
 ## Features
 - **Pre-configured JupyterHub**: A ready-to-use Jupyter server with authentication and user management.
 - **Multi-user support**: New users are automatically created and assigned personal notebook spaces.
-- **Quantum Software Integration**: Includes support for running quantum circuits on local quantum simulators (Cloud-based simulators need to be integrated.).
+- **Quantum Software Integration**: Supports running quantum circuits on local simulators (Cloud-based simulators need to be integrated.).
 - **Persistent Notebooks**: User notebooks are saved and remain available across container restarts.
 - **Configurable and Extensible**: Easily add more quantum computing libraries and dependencies as needed.
 
